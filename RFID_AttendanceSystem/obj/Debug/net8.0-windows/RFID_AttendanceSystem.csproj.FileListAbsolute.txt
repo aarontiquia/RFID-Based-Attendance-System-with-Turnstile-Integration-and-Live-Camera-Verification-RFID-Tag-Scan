@@ -1,1 +1,0 @@
-C:\Users\AppCase Inc\Downloads\RFID_AttendanceSystem\RFID_AttendanceSystem\obj\Debug\net8.0-windows\RFID_AttendanceSystem.csproj.AssemblyReference.cache
